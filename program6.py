@@ -1,5 +1,5 @@
 
-my_str = input("Enter the string : ");
+my_str = input("Enter the string : ")
 
 # my_str = my_str.casefold()
 
