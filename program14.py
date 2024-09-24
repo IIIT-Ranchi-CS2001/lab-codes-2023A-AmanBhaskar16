@@ -9,5 +9,5 @@ for i in string:
 		cnt = cnt + 1
 
 
-print("Count of a in GeeksforGeeks is : "
+print("Count of a in AmanBhaskar is : "
 	+ str(cnt))
